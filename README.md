@@ -45,7 +45,4 @@ Berikut adalah insight yang diperoleh dari hasil klasifikasi manual dan bantuan 
 
 📌 *Model digunakan: `granite-3-3-8b-instruct`, IBM WatsonX Prompt Lab*
 
----
-
-## 📂 Struktur Repository
 
